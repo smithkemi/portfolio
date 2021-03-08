@@ -225,3 +225,9 @@ address {
     grid-template-rows: 0.02fr 0.5fr 1fr;
   }
 }
+@media only screen and (max-width: 500px) {
+  address {
+    font-size: 9px;
+    margin-left: 3%;
+  }
+}
