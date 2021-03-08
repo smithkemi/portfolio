@@ -230,4 +230,10 @@ address {
     font-size: 9px;
     margin-left: 3%;
   }
+    .about {
+    height: 17em;
+  }
+  .more {
+    width: 190px;
+  }
 }
