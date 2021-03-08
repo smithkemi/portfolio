@@ -235,5 +235,14 @@ address {
   }
   .more {
     width: 190px;
+     margin-left: 28%;
+  }
+   .me,
+  .yes {
+    font-size: 10px;
+    line-height: 15px;
+  }
+  .cert {
+    text-align: justify;
   }
 }
