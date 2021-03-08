@@ -248,4 +248,7 @@ address {
   .cert {
     text-align: justify;
   }
+    .about-content {
+    grid-template-rows: 0.02fr 0.3fr 1fr;
+  }
 }
